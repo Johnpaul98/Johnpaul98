@@ -14,7 +14,7 @@
 
 ---
 
-### 🏆 Featured Case Study
+### 🏆 Featured Case Studies
 
 #### Legends Archive: A Nostalgia-Driven Engagement Feature for Cricbuzz
 
@@ -70,6 +70,48 @@ Cricket platforms like Cricbuzz see a sharp drop in user engagement during non-m
 
 ---
 
+#### Reliability Dashboard: Platform Health & Strategic Impact
+
+> **Role:** Technical Product Manager (SDE → TPM Growth)  
+> **Type:** Internal Platform Case Study (DevOps | Reliability | Data-Driven Product)  
+> **Theme:** Driving cross-functional alignment and proactive reliability improvement
+
+- Built a platform health dashboard to aggregate and visualize key reliability metrics (MTTR, open support tickets, incident trends).
+- Shifted focus from firefighting to preventative infra work, enabling better sprint planning and PM buy-in.
+
+<details>
+<summary>Read More</summary>
+
+#### 📈 Strategic Impact
+
+- Platform-wide visibility → better sprint planning for infra fixes
+- Increased PM buy-in for addressing long-standing tech debt
+- Enabled shift from firefighting to preventative reliability
+
+#### 🧭 Learnings & Reflection
+
+This project showcased my shift from “just fixing bugs” to driving **cross-functional, data-driven platform health initiatives**.
+
+I learned how to:
+- Frame technical work in terms of product/business value
+- Align engineers, SRE, and product around shared reliability goals
+- Build internal tooling as a **platform enabler**, not just support
+
+#### 📁 Suggested GitHub Folder Structure
+
+```
+reliability-dashboard-case-study/
+├── README.md
+├── sample-dashboard-metrics.md      # Optional breakdown of metrics tracked
+├── mock-screens.md                 # Wireframe or screenshot concepts (optional)
+└── weekly-pulse-template.md        # Sample weekly summary template
+```
+
+✅ Ideal for TPM portfolios to showcase platform thinking, ownership, and alignment with long-term product goals.
+</details>
+
+---
+
 ### 💼 Skills
 
 - **Languages:** Java (Spring Boot)
@@ -101,3 +143,5 @@ Cricket platforms like Cricbuzz see a sharp drop in user engagement during non-m
 ---
 
 *“Great products are built at the intersection of empathy, technology, and storytelling.”*
+
+---
