@@ -16,7 +16,7 @@
 
 ### 🏆 Featured Case Studies
 
-#### Legends Archive: A Nostalgia-Driven Engagement Feature for Cricbuzz
+#### 🏏 Legends Archive: A Nostalgia-Driven Engagement Feature for Cricbuzz
 
 > **Role:** Product Thinker (SDE → TPM Transition Showcase)  
 > **Type:** Conceptual Case Study (MediaTech | Fan Engagement | Feature Ideation)  
@@ -70,7 +70,7 @@ Cricket platforms like Cricbuzz see a sharp drop in user engagement during non-m
 
 ---
 
-#### Reliability Dashboard: Platform Health & Strategic Impact
+#### 🧱 Reliability Dashboard: Platform Health & Strategic Impact
 
 > **Role:** Technical Product Manager (SDE → TPM Growth)  
 > **Type:** Internal Platform Case Study (DevOps | Reliability | Data-Driven Product)  
@@ -109,6 +109,62 @@ reliability-dashboard-case-study/
 
 ✅ Ideal for TPM portfolios to showcase platform thinking, ownership, and alignment with long-term product goals.
 </details>
+
+---
+
+#### 🔔 Smart Feature Nudges: Data-Driven Growth & User Experimentation
+
+> **Role:** Product Manager (Growth & Experiments)  
+> **Type:** Product Growth Case Study (Behavioral Design | A/B Testing | User Retention)  
+> **Theme:** Leveraging data and behavioral nudges to drive feature adoption
+
+- Designed and ran in-app nudge experiments to increase adoption of underused features without spamming users.
+- Used event analytics and behavioral segmentation to trigger contextual prompts.
+- Achieved measurable lift in activation and retained users.
+
+<details>
+<summary>Read More</summary>
+
+#### 🧠 Growth Mindset & Behavioral Design
+
+- Identified bottlenecks in the user funnel through cohort analysis.
+- Created lightweight, non-intrusive nudges (tooltips, banners, snackbars) tailored to user behavior.
+- Prioritized experimentation and iteration over big-bang launches.
+
+#### 📊 Experimentation & Results
+
+- Set up A/B tests for nudge copy, timing, and placement.
+- Used analytics to measure impact on feature adoption, engagement, and retention.
+- Iteratively improved nudge effectiveness through data-driven learnings.
+
+#### 🪜 Key Learnings
+
+- Importance of **hypothesis-driven experimentation** in product growth.
+- Balancing user experience with growth goals—nudges should help, not annoy.
+- Value of quick iterations and measuring what matters.
+
+#### 📁 Suggested GitHub Folder Structure
+
+```
+smart-feature-nudges/
+├── README.md
+├── sample-experiment-plan.md      # Example experiment and metric definitions
+├── mock-nudge-screens.md          # Wireframes or screenshots of nudge concepts
+└── ab-test-results.md             # Sample analytics output or summary
+```
+
+✅ Showcases TPM skills in experimentation, behavioral design, and growth analytics.
+</details>
+
+---
+
+### ✅ Your TPM Portfolio Covers:
+
+| Case Study                | Skill Focus                                         |
+|---------------------------|-----------------------------------------------------|
+| 🏏 Legends Archive        | Product Vision, Emotional UX, Content               |
+| 🧱 Platform Reliability   | Technical Depth, Platform Thinking                  |
+| 🔔 Smart Feature Nudges   | Growth, Behavioral Design, Data-Driven UX           |
 
 ---
 
